@@ -1,0 +1,8 @@
+Nombres: Ades Yasir
+Apellidos: Gòmez Delgado
+Edad: 20
+Estatura: 1.68
+Telefono: 9611228814
+Genero: Hombre
+
+
